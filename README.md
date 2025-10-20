@@ -77,6 +77,7 @@ jupyter notebook Smart_Agriculture_Yield_Analysis.ipynb
 **Mohammad Ziaee**  
 📍 Computer Engineer | Data Science & AI Enthusiast  
 🔗 [GitHub Profile](https://github.com/ziaee-mohammad)
+👉 Instagram: [@ziaee_mohammad](https://www.instagram.com/ziaee_mohammad/)
 
 ---
 
